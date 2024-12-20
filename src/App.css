@@ -1,0 +1,14 @@
+body{
+  background-color:rgb(21, 21, 61) ;
+  color: #fff;
+
+}
+
+.cards__container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.heading{
+  text-align: center;
+}
